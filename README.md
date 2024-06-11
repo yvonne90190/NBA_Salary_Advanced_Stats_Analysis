@@ -14,7 +14,7 @@ The detailed report of the analysis can be found [here]([https://docs.google.com
 
 - `NBA_Data.csv`: Contains the raw and processed datasets.
 - `main.r`: R scripts for data preprocessing and analysis (`main.r`).
-- `report`: Contains the final report and any supplementary documents.
+- `report.pdf`: Contains the final report and any supplementary documents.
 
 ## Getting Started
 
