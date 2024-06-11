@@ -4,11 +4,11 @@ This project analyzes NBA salary data and advanced statistics from 2001 to 2023.
 
 ## Datasets
 
-You can access the dataset used for this analysis [here](https://huggingface.co/datasets/yvonne90190/NBA_salary_advanced_stats/tree/main).
+You can access the dataset used for this analysis [here]([https://huggingface.co/datasets/yvonne90190/NBA_salary_advanced_stats/tree/main](https://github.com/yvonne90190/NBA_Salary_Advanced_Stats_Analysis/blob/main/NBA_Data.csv)).
 
 ## Report
 
-The detailed report of the analysis can be found [here](https://docs.google.com/document/d/17Kom6wOttLkeK8sR6bySeZvb-aFgxQf0vB3oew-uJGU/edit?usp=sharing).
+The detailed report of the analysis can be found [here]([https://docs.google.com/document/d/17Kom6wOttLkeK8sR6bySeZvb-aFgxQf0vB3oew-uJGU/edit?usp=sharing](https://github.com/yvonne90190/NBA_Salary_Advanced_Stats_Analysis/blob/main/report.pdf)).
 
 ## Project Structure
 
