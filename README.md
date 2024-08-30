@@ -10,7 +10,7 @@ You can access the dataset used for this analysis [here](https://github.com/yvon
 
 The detailed report of the analysis can be found [here](https://docs.google.com/document/d/1U-2fawI1_m00HCtUGZzdd-kOj2hMqxG1qbQrXT5qFVA/edit?usp=sharing).  
 The presentation video can be found [here](https://drive.google.com/file/d/1rErz95ukRVsw1mSYlyjgTvAWj5KpApG6/view?usp=sharing).  
-The presentation slide can be found [here](https://github.com/yvonne90190/NBA_Salary_Advanced_Stats_Analysis/blob/main/Presentation_slides.pdf).  
+The presentation slides can be found [here](https://github.com/yvonne90190/NBA_Salary_Advanced_Stats_Analysis/blob/main/Presentation_slides.pdf).  
 
 ## Project Structure
 
