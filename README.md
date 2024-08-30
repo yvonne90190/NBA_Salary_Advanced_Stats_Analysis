@@ -9,6 +9,8 @@ You can access the dataset used for this analysis [here]([https://huggingface.co
 ## Report
 
 The detailed report of the analysis can be found [here]([https://docs.google.com/document/d/17Kom6wOttLkeK8sR6bySeZvb-aFgxQf0vB3oew-uJGU/edit?usp=sharing](https://github.com/yvonne90190/NBA_Salary_Advanced_Stats_Analysis/blob/main/report.pdf)).
+The presentation slide can be found [here]().
+The presentation video can be found [here](https://drive.google.com/file/d/1rErz95ukRVsw1mSYlyjgTvAWj5KpApG6/view?usp=sharing).
 
 ## Project Structure
 
